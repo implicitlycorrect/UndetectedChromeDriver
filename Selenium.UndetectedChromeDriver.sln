@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.UndetectedChromeDriver", "Selenium.UndetectedChromeDriver\Selenium.UndetectedChromeDriver.csproj", "{708B9CF8-ACC3-40FC-8854-BE8147527BF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{708B9CF8-ACC3-40FC-8854-BE8147527BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708B9CF8-ACC3-40FC-8854-BE8147527BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708B9CF8-ACC3-40FC-8854-BE8147527BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708B9CF8-ACC3-40FC-8854-BE8147527BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EC5BA0D-B64F-4B63-993E-887FDE6691FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC5BA0D-B64F-4B63-993E-887FDE6691FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC5BA0D-B64F-4B63-993E-887FDE6691FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC5BA0D-B64F-4B63-993E-887FDE6691FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
